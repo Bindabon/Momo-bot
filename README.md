@@ -5,7 +5,7 @@
 	<li>join us</li>
 	<li>invite your friends</li>
 	<li>follow the rules </li>
-	<li>feel free to dm mina about momo bot and server and discord </li>
+	<li>feel free to dm Candy#1000 about momo bot and server and discord </li>
 	<li>invite momo bot to your server (nadeko clone) click here  </li>
 <a href="https://discordapp.com/oauth2/authorize?client_id=388331085060112397&scope=bot&permissions=66186303" rel="nofollow"><img src="https://cdn.discordapp.com/attachments/392050380592250891/415854646226059264/44f73e81500d912ff1dfda168f8c655b--twice-momo-cute-twice-kpop-momo.jpg" alt="" data-canonical-src="https://cdn.discordapp.com/attachments/392050380592250891/415854646226059264/44f73e81500d912ff1dfda168f8c655b--twice-momo-cute-twice-kpop-momo.jpg" style="max-width:100%;">
 	
