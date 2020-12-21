@@ -1,10 +1,21 @@
 # Momo bot
-<h2>kpop singing the must active kpop server in all discord with 160000 members join us https://discord.gg/9sVbKF3</h2>
+<h2>i have so many bots that already are in top.gg also you can join our support server if you need help here https://discord.gg/9sVbKF3 or add me on discord here : https://discord.com/users/574290999489069057 </h2>
 <p><a href="https://discord.gg/9sVbKF3" rel="nofollow"><img src="https://discordapp.com/api/guilds/384522579379224578/embed.png?style=banner4" alt="" data-canonical-src="https://discordapp.com/api/guilds/384522579379224578/embed.png?style=banner4" style="max-width:100%;"></a></p>
 <ul>
 	<a href="https://top.gg/bot/388331085060112397">
     <img src="https://top.gg/api/widget/388331085060112397.svg" alt="Momo🍑" />
 </a>
+	
+	<a href="https://top.gg/bot/428900318852546560">
+    <img src="https://top.gg/api/widget/428900318852546560.svg" alt="Rosé 💕" />
+</a>
+
+<a href="https://top.gg/bot/637604212825522176">
+    <img src="https://top.gg/api/widget/637604212825522176.svg" alt="Somi 🐈" />
+</a>
+
+rose bot invite link : https://discord.com/oauth2/authorize?client_id=428900318852546560&scope=bot&permissions=66186303
+somi bot invite link : https://discord.com/oauth2/authorize?client_id=637604212825522176&scope=bot&permissions=66186303
 	<li>join us</li>
 	<li>invite your friends</li>
 	<li>follow the rules </li>
