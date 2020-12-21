@@ -6,7 +6,7 @@
     <img src="https://top.gg/api/widget/388331085060112397.svg" alt="Momo🍑" />
 </a>
 	
-	<a href="https://top.gg/bot/428900318852546560">
+<a href="https://top.gg/bot/428900318852546560">
     <img src="https://top.gg/api/widget/428900318852546560.svg" alt="Rosé 💕" />
 </a>
 
