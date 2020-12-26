@@ -14,13 +14,13 @@
     <img src="https://top.gg/api/widget/637604212825522176.svg" alt="Somi 🐈" />
 </a>
 
-rose bot invite link : https://discord.com/oauth2/authorize?client_id=428900318852546560&scope=bot&permissions=66186303
-somi bot invite link : https://discord.com/oauth2/authorize?client_id=637604212825522176&scope=bot&permissions=66186303
-	<li>join us</li>
+[rose bot invite link](https://discord.com/oauth2/authorize?client_id=428900318852546560&scope=bot&permissions=66186303)
+[somi bot invite link](https://discord.com/oauth2/authorize?client_id=637604212825522176&scope=bot&permissions=66186303)
+	<li>Join my server if you need help</li>
 	<li>invite your friends</li>
 	<li>follow the rules </li>
 	<li>feel free to dm 💗 https://discord.com/users/574290999489069057  about momo bot and server and discord </li>
-	<li>invite momo bot to your server click here  </li>
+	<li>invite momo bot and other bots to your server</li>
 <a href="https://discordapp.com/oauth2/authorize?client_id=388331085060112397&scope=bot&permissions=66186303" rel="nofollow"><img src="https://cdn.discordapp.com/attachments/392050380592250891/415854646226059264/44f73e81500d912ff1dfda168f8c655b--twice-momo-cute-twice-kpop-momo.jpg" alt="" data-canonical-src="https://cdn.discordapp.com/attachments/392050380592250891/415854646226059264/44f73e81500d912ff1dfda168f8c655b--twice-momo-cute-twice-kpop-momo.jpg" style="max-width:100%;">
 	
 	
