@@ -17,6 +17,8 @@
 
 this page will be updated soon with my youtube channel  <a href="https://www.youtube.com/watch?v=SYmCtaSrqXA" rel="nofollow"><img src="https://cdn.discordapp.com/attachments/760365719660527626/802181951981223986/unknown.png" alt="Youtube">
 
+<img src="https://cdn.discordapp.com/attachments/574296586742398997/800149175517446164/index.png" alt="Youtube">
+
 [YOUTUBE TOS click here](https://www.youtube.com/t/terms)
 
 [rose bot invite link](https://discord.com/oauth2/authorize?client_id=428900318852546560&scope=bot&permissions=66186303)
