@@ -14,7 +14,6 @@
     <img src="https://top.gg/api/widget/637604212825522176.svg" alt="Somi 🐈" />
 </a>
 
-<div><span style="text-align:center; display:block;"><span style="width:640px; text-align:left; display:inline-block;"><img src="https://iranianuk.com/db/pages/files/images/btn_video_bar_new.png" border="0"></span></span><span style="text-align:center; display:block;" class="youtube_container"><iframe allowfullscreen="" src="//www.youtube.com/embed/IkeGw3HYXj0?rel=0&amp;showinfo=0" width="640" height="360" frameborder="0"></iframe></span></div>
 
 this page will be updated soon with my youtube channel  <img src="https://cdn.discordapp.com/attachments/574296586742398997/800149175517446164/index.png" alt="Youtube"> 
 [YOUTUBE TOS click here](https://www.youtube.com/t/terms)
