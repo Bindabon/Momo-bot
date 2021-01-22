@@ -14,6 +14,7 @@
     <img src="https://top.gg/api/widget/637604212825522176.svg" alt="Somi 🐈" />
 </a>
 
+<img src="https://cdn.discordapp.com/attachments/760365719660527626/802181951981223986/unknown.png"
 
 this page will be updated soon with my youtube channel  <img src="https://cdn.discordapp.com/attachments/574296586742398997/800149175517446164/index.png" alt="Youtube"> 
 [YOUTUBE TOS click here](https://www.youtube.com/t/terms)
