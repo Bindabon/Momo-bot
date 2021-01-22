@@ -15,7 +15,7 @@
 </a>
 
 
-this page will be updated soon with my youtube channel  <img src="https://cdn.discordapp.com/attachments/760365719660527626/802181951981223986/unknown.png" alt="Youtube">
+this page will be updated soon with my youtube channel  <a href="https://www.youtube.com/watch?v=SYmCtaSrqXA" rel="nofollow"><img src="https://cdn.discordapp.com/attachments/760365719660527626/802181951981223986/unknown.png" alt="Youtube">
 
 [YOUTUBE TOS click here](https://www.youtube.com/t/terms)
 
