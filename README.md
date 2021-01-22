@@ -1,16 +1,4 @@
 # Momo bot
-
-<!DOCTYPE html> 
-<html> 
-<body> 
-  
-<iframe height="480" width="500"  
-src="https://www.youtube.com/embed/SYmCtaSrqXA"
-</iframe> 
-  
-</body> 
-</html> 
-
 <h2>i have so many bots that already are in top.gg also you can join our support server if you need help here https://discord.gg/9sVbKF3 or add me on discord here : https://discord.com/users/574290999489069057 </h2>
 <p><a href="https://discord.gg/9sVbKF3" rel="nofollow"><img src="https://discordapp.com/api/guilds/384522579379224578/embed.png?style=banner4" alt="" data-canonical-src="https://discordapp.com/api/guilds/384522579379224578/embed.png?style=banner4" style="max-width:100%;"></a></p>
 <ul>
@@ -26,10 +14,7 @@ src="https://www.youtube.com/embed/SYmCtaSrqXA"
     <img src="https://top.gg/api/widget/637604212825522176.svg" alt="Somi 🐈" />
 </a>
 
-
-
-this page will be updated soon with my youtube channel  
-
+this page will be updated soon with my youtube channel  <img src="https://www.youtube.com/embed/SYmCtaSrqXA" alt="Youtube"> 
 [YOUTUBE TOS click here](https://www.youtube.com/t/terms)
 
 [rose bot invite link](https://discord.com/oauth2/authorize?client_id=428900318852546560&scope=bot&permissions=66186303)
@@ -44,5 +29,3 @@ this page will be updated soon with my youtube channel
 	
 	
 	
-</ul>
-
