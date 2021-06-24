@@ -1,5 +1,6 @@
 # Momo bot
-<h2>i have so many bots that already are in top.gg also you can join our support server if you need help here https://discord.gg/9sVbKF3 or add me on discord here : https://discord.com/users/574290999489069057   Donate to us i need to add more features for our bots and momo bot also we need to keep pay for our vps to keep our bots alive : https://www.paypal.me/ksinging </h2>
+<h2>i have so many bots that already are in top.gg also you can join our support server if you need help here https://discord.gg/9sVbKF3 or add me on discord here : https://discord.com/users/574290999489069057   
+Donate to us i need to add more features for our bots and momo bot also we need to keep pay for our vps to keep our bots alive : https://www.paypal.me/ksinging </h2>
 <p><a href="https://discord.gg/9sVbKF3" rel="nofollow"><img src="https://discordapp.com/api/guilds/384522579379224578/embed.png?style=banner4" alt="" data-canonical-src="https://discordapp.com/api/guilds/384522579379224578/embed.png?style=banner4" style="max-width:100%;"></a></p>
 <ul>
 	<a href="https://top.gg/bot/388331085060112397">
