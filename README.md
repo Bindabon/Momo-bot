@@ -15,11 +15,7 @@ Donate to us i need to add more features for our bots and momo bot also we need 
 <a href="https://top.gg/bot/637604212825522176">
     <img src="https://top.gg/api/widget/637604212825522176.svg" alt="Somi 🐈" />
 </a>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rfscVS0vtbw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>	
-	
-	
-
+https://cdn.discordapp.com/attachments/781330837475557436/876946979219984434/unknown.png	
 this page will be updated soon with my youtube channel  <a href="https://www.youtube.com/watch?v=SYmCtaSrqXA" rel="nofollow"><img src="https://cdn.discordapp.com/attachments/760365719660527626/802181951981223986/unknown.png" alt="Youtube">
 
 <img src="https://cdn.discordapp.com/attachments/574296586742398997/800149175517446164/index.png" alt="Youtube">
